@@ -1,5 +1,9 @@
 🏥 Doctor Appointment Booking System
 
+
+Admin Login- https://doc-appoint-4w3x.vercel.app/
+User Login- https://doc-appoint-9udr.vercel.app/
+
 A full-stack Doctor Appointment Booking System built using MERN stack, featuring role-based access for Users, Doctors, and Admin, with a secure Demo Admin Mode for public showcasing.
 
 This project demonstrates real-world backend architecture, authentication, and role separation while remaining safe for public deployment.
